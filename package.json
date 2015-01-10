@@ -1,0 +1,31 @@
+{
+  "name": "thunk-to-promise",
+  "version": "0.0.0",
+  "description": "Converts a thunk to promise.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hemanth/thunk-to-promise"
+  },
+  "keywords": [
+    "thunk",
+    "promise",
+    "convert"
+  ],
+  "files": [
+    "index.js"
+  ],
+  "author": "Hemanth.HM",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hemanth/thunk-to-promise/issues"
+  },
+  "homepage": "https://github.com/hemanth/thunk-to-promise",
+  "devDependencies": {
+    "mocha": "^2.1.0",
+    "thunkify": "^2.1.2"
+  }
+}
