@@ -1,3 +1,4 @@
+var slice = Array.prototype.slice;
 module.exports = function thunkToPromise(fn) {
   var ctx = this;
   return new Promise(function (resolve, reject) {
