@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/hemanth/thunk-to-promise",
   "devDependencies": {
-    "mocha": "^2.1.0",
+    "mocha": "^3.0.2",
     "thunkify": "^2.1.2"
   }
 }
